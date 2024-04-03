@@ -10,3 +10,4 @@ public interface ChampionsRepository {
 
     Optional<Champion> findById(Long id);
 }
+
